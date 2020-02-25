@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="MAD-MDB-DEV-1.AdventureWorks2017_Jose"
+  DTS:DTSID="{8B9E5488-1561-462E-8CE8-24A5B6B88A49}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=MAD-MDB-DEV-1;Initial Catalog=AdventureWorks2017_Jose;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
